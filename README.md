@@ -1,1 +1,1 @@
-# AkelDiscordIntegrationLicense
+AkelLicense
