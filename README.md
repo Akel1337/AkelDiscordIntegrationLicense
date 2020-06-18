@@ -1,1 +1,2 @@
-AkelLicense, true
+AkelLicense
+true
